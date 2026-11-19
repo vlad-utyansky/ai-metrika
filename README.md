@@ -1,23 +1,23 @@
-# 🌐 V-CODES AI-Metrika (AI Web Intelligence Engine)
+# 🌐 V-CODES AI-Metrika & Utyansky AIO Observatory
 
-> **Autonomous analytics for the GEO (Generative Engine Optimization) era.**  
-> Real-time detection, telemetry, and visibility analysis for AI bots and LLM crawlers.
+> **Autonomous End-to-End AI Telemetry, Neurorhythm Quantification & Predictive AIO Web Adaptation Engine**  
+> Программный комплекс сквозной телеметрии поискового искусственного интеллекта, фиксации нейроритмов и предиктивной AIO-адаптации сетевых ресурсов.
 
 [![Language: Russian (RU)](https://img.shields.io/badge/Language-Russian%20(RU)-blue?style=flat-square)](README_RU.md)
 [![Status](https://img.shields.io/badge/Status-Active%20R%26D%20%2F%20Closed%20Lab-2ea44f.svg)]()
-[![Rospatent Application](https://img.shields.io/badge/Rospatent%20RF-App%20%E2%84%96%202026696205%20(07.11.2026)-success.svg)]()
+[![Rospatent Application](https://img.shields.io/badge/Rospatent%20RF-App%20%E2%84%96%202026696205%20%7C%20EA--207479-success.svg)]()
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8768--6707-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8768-6707)
 [![CERN Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22934668-blue)](https://doi.org/10.5281/zenodo.22934668)
-[![Focus](https://img.shields.io/badge/Domain-GEO%20%26%20LLM%20Intelligence-orange.svg)]()
+[![Domain](https://img.shields.io/badge/Domain-GEO%20%2F%20AIO%20Web%20Optimization-orange.svg)]()
 
 **[ 🇷🇺 Читать документацию на русском ➔ ](README_RU.md)**
 
 ---
 
-### 👨‍🔬 Author & Scientific Accreditations
+### 👨‍🔬 Author & State Priority Accreditations
 
-* **Author & Architect:** **Vladislav Utyansky** — Computer Scientist, AI Systems Architect, Creator of the [Utyansky Index Architecture](https://github.com/vlad-utyansky/utyansky-index).
-* 🛡️ **State Priority Accreditation:** Rospatent RF Application **№ 2026696205** (Filing Date: November 07, 2026).
+* **Author & Systems Architect:** **Vladislav Utyansky** — Computer Scientist, AI Systems Architect, Creator of the [Utyansky Index Architecture](https://github.com/vlad-utyansky/utyansky-index).
+* 🛡️ **State Priority Accreditation:** Rospatent RF Application **№ 2026696205** (FIPS Case Entry **`EA-207479`**, Priority Date: **November 07, 2026, 20:43 MSK**).
 * 🎓 **ORCID Global Researcher ID:** [0009-0005-8768-6707](https://orcid.org/0009-0005-8768-6707)
 * 📜 **CERN Zenodo DOI:** [10.5281/zenodo.22934668](https://doi.org/10.5281/zenodo.22934668)
 * 📚 **Academic Publication:** [Academia.edu Preprint 176346479](https://www.academia.edu/176346479/Utyansky_Index_v2_0_Deterministic_Slot_Isolation_and_O_1_State_Mapping_Protocol_for_Multi_Agent_LLM_Stability_in_Vibe_Coding)
@@ -25,35 +25,52 @@
 
 ---
 
-## 📌 Problem: The Blind Spot of Classic Analytics
+## 📌 Problem: The Generative Search Blind Spot
 
-Traditional web analytics suites were engineered for human browser interactions (clicks, sessions, scrolls). 
+Classic web analytics platforms (Google Analytics, Yandex Metrika) were designed exclusively around human browsing behavior (mouse clicks, pageviews, session scrolls).
 
-With the rapid emergence of generative search engines and autonomous AI assistants (Perplexity, ChatGPT Search, Claude, Apple Intelligence):
-1. **Shifting Search Patterns:** Users receive synthesized answers directly inside conversational interfaces without visiting standard SERP links.
-2. **Analytics Invisibility:** Visits from specialized autonomous crawlers (GPTBot, PerplexityBot, ClaudeBot, Cohere, Applebot) are frequently misclassified as generic server traffic or automated bots.
-3. **The GEO Measurement Gap:** Website owners lack clarity on which sections of their web assets are routinely scanned, indexed, and cited by large language models.
+With the rise of Generative Engine Optimization (GEO) and conversational search models (OpenAI, Anthropic, Google Gemini, Perplexity, DeepSeek, Apple Intelligence, Yandex Neuro):
+1. **Changing Information Consumption:** Users increasingly receive synthesized AI responses, bypassing direct link clicks.
+2. **Measurement Blind Spot:** Traditional counters either discard headless AI crawlers as technical noise or lump them indiscriminately into unknown automated bots.
+3. **Lack of AIO Telemetry:** Website administrators cannot track **which specific site assets are parsed by LLMs**, how frequently indexes are refreshed, or whether content is structured for direct citation in AI answers.
 
 ---
 
-## 💡 Concept: V-CODES AI-Metrika
+## 🔬 Architectural Pillars (Based on Official Patent Claims)
 
-**V-CODES AI-Metrika** is a specialized telemetry and intelligence system designed for the generative web era:
+The **Utyansky AI Observatory** platform introduces a deterministic, multi-layered telemetry standard:
 
-* 🔍 **Signature Recognition (30+ AI Crawlers):** Deterministic identification of generative AI crawlers and knowledge retrieval agents.
-* ⚡ **Zero-Impact Sensor Snippet:** Lightweight, asynchronous telemetry client designed to run without delaying web page rendering.
-* 📊 **GEO Visibility Mapping:** Insights into crawling frequency, indexing depth, and content readiness for generative answer engines.
-* 🛡️ **Traffic Segregation:** Accurate differentiation between traditional search indexers, commercial LLM assistants, and general automation.
+### 1. Dual-Circuit Telemetry (Двухконтурный сбор данных)
+* **Server Pre-DOM Circuit:** Low-level HTTP header interception prior to HTML document generation, guaranteeing **100% capture of headless AI crawlers** that do not execute client-side JavaScript.
+* **Client Micro-Beacon Circuit:** Ultralight asynchronous beacon capturing inbound user referral traffic arriving directly from AI assistant chat interfaces.
+
+### 2. 4-Bucket Deterministic Traffic Separation
+Incoming traffic is strictly segregated into four isolated data pipelines:
+1. **Organic Human Visitors** (standard browser interactions);
+2. **Traditional Search Indexers** (Googlebot, YandexBot);
+3. **Direct AI Crawlers** (GPTBot, PerplexityBot, ClaudeBot, Applebot, DeepSeek, Grok);
+4. **AI Dialog Referrals** (end users navigating from citations in AI conversation interfaces).
+
+### 3. "Utyansky Neurorhythms" & Mathematical Periodicity
+* Continuous mathematical calculation of intervals between recurring crawler sweeps for each distinct language model.
+* Identification of the **astronomical peak activity hour** (MSK time zone) and average crawl session duration.
+* Predictive modeling of the next scheduled visitation window.
+
+### 4. Predictive JIT Metadata Adaptation (Упреждающая AIO-адаптация)
+* Dynamic, automated synchronization of structured semantic files (`/llms.txt`, `/ai-map.json`) timed strictly prior to the anticipated visitation window of a specific AI model.
+
+### 5. Architectural Structural Profiling
+* Automated evaluation of model affinity toward mono-structured single-page documents versus hierarchical multi-page tree directories.
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] **R&D & Architecture:** Formulation of signature recognition matrices and autonomous sensor pipelines.
-- [x] **State IP Protection:** Formal registration application filed with Rospatent RF (Application № 2026696205, Nov 07, 2026).
-- [ ] **Laboratory Calibration:** Internal validation of sensor arrays on controlled host clusters — **[CURRENT STAGE]**.
-- [ ] **Closed Pilot Cohort:** Controlled admission of external web properties via Waitlist.
-- [ ] **Public Dashboard:** Release of the webmaster portal and reporting interface.
+- [x] **R&D & Signature Engine:** Development of deterministic signature recognition matrices and O(1) routing pipelines.
+- [x] **State IP Protection:** Formal software registration application submitted to Rospatent RF (Application № 2026696205 | FIPS EA-207479, Nov 07, 2026).
+- [ ] **Laboratory Sensor Calibration:** Internal validation of sensor arrays across dedicated server clusters — **[CURRENT STAGE]**.
+- [ ] **Closed Pilot Cohort:** Curated onboarding of external web properties via Waitlist.
+- [ ] **Public Dashboard:** Release of the AIO Observatory analytics console and webmaster portal.
 
 ---
 
