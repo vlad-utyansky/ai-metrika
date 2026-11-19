@@ -1,14 +1,14 @@
-# 🌐 V-CODES AI-Metrika & Utyansky AIO Observatory
+# 🌐 V-CODES AI-Metrika (AI Web Intelligence Platform)
 
-> **Autonomous End-to-End AI Telemetry, Neurorhythm Quantification & Predictive AIO Web Adaptation Engine**  
-> Программный комплекс сквозной телеметрии поискового искусственного интеллекта, фиксации нейроритмов и предиктивной AIO-адаптации сетевых ресурсов.
+> **Autonomous analytics and telemetry for the GEO (Generative Engine Optimization) era.**  
+> Real-time detection, traffic classification, and visibility metrics for AI bots and search LLMs.
 
 [![Language: Russian (RU)](https://img.shields.io/badge/Language-Russian%20(RU)-blue?style=flat-square)](README_RU.md)
 [![Status](https://img.shields.io/badge/Status-Active%20R%26D%20%2F%20Closed%20Lab-2ea44f.svg)]()
 [![Rospatent Application](https://img.shields.io/badge/Rospatent%20RF-App%20%E2%84%96%202026696205%20%7C%20EA--207479-success.svg)]()
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8768--6707-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8768-6707)
 [![CERN Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22934668-blue)](https://doi.org/10.5281/zenodo.22934668)
-[![Domain](https://img.shields.io/badge/Domain-GEO%20%2F%20AIO%20Web%20Optimization-orange.svg)]()
+[![Domain](https://img.shields.io/badge/Domain-GEO%20%26%20AIO%20Analytics-orange.svg)]()
 
 **[ 🇷🇺 Читать документацию на русском ➔ ](README_RU.md)**
 
@@ -27,50 +27,33 @@
 
 ## 📌 Problem: The Generative Search Blind Spot
 
-Classic web analytics platforms (Google Analytics, Yandex Metrika) were designed exclusively around human browsing behavior (mouse clicks, pageviews, session scrolls).
+Classic web analytics suites (Google Analytics, Yandex Metrika) were engineered for human browser interactions (mouse clicks, pageviews, session scrolls).
 
-With the rise of Generative Engine Optimization (GEO) and conversational search models (OpenAI, Anthropic, Google Gemini, Perplexity, DeepSeek, Apple Intelligence, Yandex Neuro):
-1. **Changing Information Consumption:** Users increasingly receive synthesized AI responses, bypassing direct link clicks.
-2. **Measurement Blind Spot:** Traditional counters either discard headless AI crawlers as technical noise or lump them indiscriminately into unknown automated bots.
-3. **Lack of AIO Telemetry:** Website administrators cannot track **which specific site assets are parsed by LLMs**, how frequently indexes are refreshed, or whether content is structured for direct citation in AI answers.
+With the rise of Generative Engine Optimization (GEO) and conversational search models (OpenAI, Anthropic, Google Gemini, Perplexity, DeepSeek, Apple Intelligence):
+1. **Shifting Search Patterns:** Users increasingly receive synthesized answers directly inside conversational AI interfaces, bypassing classic search links.
+2. **Measurement Blind Spot:** Traditional counters frequently misclassify headless AI crawlers as generic technical noise or lump them indiscriminately into unknown automated bots.
+3. **The GEO Intelligence Gap:** Website owners lack clarity on whether their digital assets are routinely discovered, parsed, and cited by large language models.
 
 ---
 
-## 🔬 Architectural Pillars (Based on Official Patent Claims)
+## 💡 Solution: V-CODES AI-Metrika (Proprietary Engine)
 
-The **Utyansky AI Observatory** platform introduces a deterministic, multi-layered telemetry standard:
+**V-CODES AI-Metrika** provides specialized telemetry and intelligence designed for modern web infrastructures:
 
-### 1. Dual-Circuit Telemetry (Двухконтурный сбор данных)
-* **Server Pre-DOM Circuit:** Low-level HTTP header interception prior to HTML document generation, guaranteeing **100% capture of headless AI crawlers** that do not execute client-side JavaScript.
-* **Client Micro-Beacon Circuit:** Ultralight asynchronous beacon capturing inbound user referral traffic arriving directly from AI assistant chat interfaces.
-
-### 2. 4-Bucket Deterministic Traffic Separation
-Incoming traffic is strictly segregated into four isolated data pipelines:
-1. **Organic Human Visitors** (standard browser interactions);
-2. **Traditional Search Indexers** (Googlebot, YandexBot);
-3. **Direct AI Crawlers** (GPTBot, PerplexityBot, ClaudeBot, Applebot, DeepSeek, Grok);
-4. **AI Dialog Referrals** (end users navigating from citations in AI conversation interfaces).
-
-### 3. "Utyansky Neurorhythms" & Mathematical Periodicity
-* Continuous mathematical calculation of intervals between recurring crawler sweeps for each distinct language model.
-* Identification of the **astronomical peak activity hour** (MSK time zone) and average crawl session duration.
-* Predictive modeling of the next scheduled visitation window.
-
-### 4. Predictive JIT Metadata Adaptation (Упреждающая AIO-адаптация)
-* Dynamic, automated synchronization of structured semantic files (`/llms.txt`, `/ai-map.json`) timed strictly prior to the anticipated visitation window of a specific AI model.
-
-### 5. Architectural Structural Profiling
-* Automated evaluation of model affinity toward mono-structured single-page documents versus hierarchical multi-page tree directories.
+* 🔍 **Multi-Model Identification:** Real-time detection and signature verification of 30+ leading AI search engines, research crawlers, and LLM retrieval agents.
+* ⚡ **Zero-Impact Sensor:** Ultralight telemetry client engineered to operate with zero latency penalty for human visitors.
+* 📊 **GEO Visibility Index:** Transparent insights into crawling frequency, site indexing completeness, and content citation readiness.
+* 🛡️ **Deterministic Traffic Segregation:** Distinct separation between human organic traffic, traditional search engines, and generative AI crawlers.
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] **R&D & Signature Engine:** Development of deterministic signature recognition matrices and O(1) routing pipelines.
+- [x] **R&D & Signature Engine:** Development of deterministic signature recognition matrices and telemetry pipelines.
 - [x] **State IP Protection:** Formal software registration application submitted to Rospatent RF (Application № 2026696205 | FIPS EA-207479, Nov 07, 2026).
-- [ ] **Laboratory Sensor Calibration:** Internal validation of sensor arrays across dedicated server clusters — **[CURRENT STAGE]**.
-- [ ] **Closed Pilot Cohort:** Curated onboarding of external web properties via Waitlist.
-- [ ] **Public Dashboard:** Release of the AIO Observatory analytics console and webmaster portal.
+- [ ] **Laboratory Sensor Calibration:** Internal validation of sensor arrays on controlled host clusters — **[CURRENT STAGE]**.
+- [ ] **Closed Pilot Cohort:** Controlled admission of external web properties via Waitlist.
+- [ ] **Public Dashboard:** Release of the webmaster portal and reporting interface.
 
 ---
 
