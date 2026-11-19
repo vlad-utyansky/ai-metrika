@@ -5,10 +5,23 @@
 
 [![Language: English (EN)](https://img.shields.io/badge/Language-English%20(EN)-blue?style=flat-square)](README.md)
 [![Статус](https://img.shields.io/badge/Статус-Активный%20R%26D%20%2F%20Закрытая%20Лаборатория-2ea44f.svg)]()
-[![Интеллектуальная собственность](https://img.shields.io/badge/Роспатент-Заявка%20подана%20(Ноябрь%202026)-success.svg)]()
+[![Заявка Роспатент](https://img.shields.io/badge/Роспатент%20РФ-Заявка%20%E2%84%96%202026696205%20(07.11.2026)-success.svg)]()
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--8768--6707-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-8768-6707)
+[![CERN Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22934668-blue)](https://doi.org/10.5281/zenodo.22934668)
 [![Направление](https://img.shields.io/badge/Направление-GEO%20и%20LLM%20Аналитика-orange.svg)]()
 
 **[ 🇬🇧 Read documentation in English ➔ ](README.md)**
+
+---
+
+### 👨‍🔬 Автор и научные регалии
+
+* **Автор и системный архитектор:** **Владислав Утянский** — исследователь, Computer Scientist, системный архитектор ИИ, создатель архитектурного стандарта [Utyansky Index Architecture](https://github.com/vlad-utyansky/utyansky-index).
+* 🛡️ **Государственный приоритет:** Заявка на регистрацию программы для ЭВМ в Роспатент РФ **№ 2026696205** (дата поступления: 07 ноября 2026).
+* 🎓 **ORCID Global Researcher ID:** [0009-0005-8768-6707](https://orcid.org/0009-0005-8768-6707)
+* 📜 **CERN Zenodo DOI:** [10.5281/zenodo.22934668](https://doi.org/10.5281/zenodo.22934668)
+* 📚 **Научная публикация:** [Academia.edu Preprint 176346479](https://www.academia.edu/176346479/Utyansky_Index_v2_0_Deterministic_Slot_Isolation_and_O_1_State_Mapping_Protocol_for_Multi_Agent_LLM_Stability_in_Vibe_Coding)
+* 🌐 **Официальный архитектурный портал:** [https://index.utyanskiy.ru](https://index.utyanskiy.ru)
 
 ---
 
@@ -37,7 +50,7 @@
 ## 🗺️ Дорожная карта (Roadmap)
 
 - [x] **R&D и архитектура:** Разработка матричной логики распознавания сигнатур и телеметрии.
-- [x] **Интеллектуальная собственность:** Подача официальной заявки на регистрацию программы для ЭВМ в Роспатент (Ноябрь 2026).
+- [x] **Государственный приоритет ИС:** Подача официальной заявки на регистрацию программы для ЭВМ в Роспатент РФ (Заявка № 2026696205 от 07.11.2026).
 - [ ] **Лабораторная калибровка:** Внутреннее тестирование сенсоров на закрытом пуле серверов — **[ТЕКУЩИЙ ЭТАП]**.
 - [ ] **Закрытая пилотная когорта:** Подключение внешних русскоязычных площадок по персональным приглашениям (Waitlist).
 - [ ] **Публичный релиз интерфейса:** Запуск личного кабинета вебмастера.
