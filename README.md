@@ -49,11 +49,11 @@ With the rise of Generative Engine Optimization (GEO) and conversational search 
 
 ## 🗺️ Roadmap
 
-- [x] **R&D & Signature Engine:** Development of deterministic signature recognition matrices and telemetry pipelines.
-- [x] **State IP Protection:** Formal software registration application submitted to Rospatent RF (Application № 2026696205 | FIPS EA-207479, Nov 07, 2026).
-- [ ] **Laboratory Sensor Calibration:** Internal validation of sensor arrays on controlled host clusters — **[CURRENT STAGE]**.
-- [ ] **Closed Pilot Cohort:** Controlled admission of external web properties via Waitlist.
-- [ ] **Public Dashboard:** Release of the webmaster portal and reporting interface.
+* ✅ **R&D & Signature Engine:** Development of deterministic signature recognition matrices and telemetry pipelines.
+* ✅ **State IP Protection:** Formal software registration application submitted to Rospatent RF (Application № 2026696205 | FIPS EA-207479, Nov 07, 2026).
+* 🔬 **Laboratory Sensor Calibration:** Internal validation of sensor arrays on controlled host clusters — **[CURRENT STAGE]**.
+* ⏳ **Closed Pilot Cohort:** Controlled admission of external web properties via Waitlist.
+* 🚀 **Public Dashboard:** Release of the webmaster portal and reporting interface.
 
 ---
 
