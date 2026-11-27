@@ -69,6 +69,18 @@ The software suite delivers a complete dual-tier technological cycle for modern 
 
 ---
 
+## 🛡️ Bot Mimicry Detection, Click Fraud Mitigation & Cross-Device Resolution
+
+A mission-critical challenge of the modern digital landscape is the rapid proliferation of generative headless bots capable of convincingly mimicking human interaction (cursor trajectory simulation, simulated scroll kinematics, synthetic touch gestures):
+
+* 💸 **Click Fraud Mitigation & Ad Budget Protection:**  
+  In paid ad networks (Google Ads, Yandex Direct), mimicking bots consume substantial advertising spend by generating deceptive non-converting clicks. Classic analytics suites frequently misclassify such automated traffic as legitimate human visits, skewing reporting and triggering unmerited disputes between business owners and marketing teams.  
+  **AI-Metrika** evaluates runtime behavioral entropy and hardware event micro-latencies, deterministically isolating mimicking crawlers from genuine organic visitors.
+* 📱💻 **Cross-Device Human Attribution:**  
+  The platform focuses on measuring real **unique human individuals** rather than raw session counts. When an individual accesses a digital resource across multiple endpoints (e.g., desktop PC followed by smartphone or tablet), the deterministic Utyansky Index standard unifies these interaction touchpoints into a cohesive journey, providing advertisers with transparent, unpolluted audience telemetry.
+
+---
+
 ## 🔬 Interactive Pilot Beta & Demo Mode (Dogfooding)
 
 The platform is operating in a **Public Pilot Beta** stage for live sensor calibration, expert feedback collection, and continuous signature expansion.
