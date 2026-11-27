@@ -58,6 +58,17 @@ Deploying the cutting-edge **Utyansky Index v5.3 Enterprise** standard enabled t
 
 ---
 
+## 🔄 End-to-End Architecture: From Telemetry to Predictive AIO Adaptation
+
+The software suite delivers a complete dual-tier technological cycle for modern digital assets:
+
+1. **Diagnostic Observability Tier (AI-Metrika — Public Pilot Telemetry):**  
+   Continuously captures search AI interactions and delivers an authoritative perspective: *how search AI perceives website content in real time*, pinpointing semantic disconnects and crawling gaps ("viewing the digital footprint through the eyes of an LLM").
+2. **Predictive Adaptation Tier (V-CODES — Commercial Enterprise Suite):**  
+   Utilizing recorded neurorhythms and the Utyansky Index standard, the platform performs semantic adaptation tailored to company branding and domain-specific knowledge. It generates structured machine-readable profiles (AIO Business Passports) and outlines exact architectural interventions required for frontier models (ChatGPT Search, Perplexity, Claude, Yandex Neuro) to cite the brand authoritatively in synthetic answers without hallucinations or distortions.
+
+---
+
 ## 🔬 Interactive Pilot Beta & Demo Mode (Dogfooding)
 
 The platform is operating in a **Public Pilot Beta** stage for live sensor calibration, expert feedback collection, and continuous signature expansion.
