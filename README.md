@@ -18,8 +18,7 @@
 
 * **Author & Systems Architect:** **Vladislav Utyansky** — Computer Scientist, AI Systems Architect, Creator of the [Utyansky Index Architecture](https://github.com/vlad-utyansky/utyansky-index).
 * 🛡️ **Federal State Registration of Computer Software:** Official State Certificate Rospatent RF **№ 2026696929** (Registered in the National Software Registry on **November 24, 2026**, Application № 2026696205 filed Nov 07, 2026).
-  * 📜 [Official Protected Document in the FIPS RF Registry ➔](https://fips.ru/EGD/bdb1f66c-a080-463a-b49e-d7451892bb59)
-  * 📄 [Official Certificate Scan (PDF) ➔](docs/ai_metrika_certificate_2026696929.pdf)
+* 📄 [Official Certificate Scan (PDF) ➔](docs/ai_metrika_certificate_2026696929.pdf)
 * 🧠 **Scientific Priority of "Utyansky Neurorhythms":**  
   The scientific concept and methodology of quantifying **"Neurorhythms of Search AI" (Utyansky Neurorhythms)** were formulated and introduced into the official lexicon by **Vladislav Utyansky**, formally established under state legal protection (Rospatent Certificate № 2026696929).
 * 🎓 **ORCID Global Researcher ID:** [0009-0005-8768-6707](https://orcid.org/0009-0005-8768-6707)
@@ -58,17 +57,6 @@ With the rise of Generative Engine Optimization (GEO) and conversational search 
 * 🔬 **Sensor Calibration & Live Testing:** Production cluster refinement — **[CURRENT STAGE]**.
 * ⏳ **Public Beta Pilot:** Free tier available for webmasters (up to 3 websites).
 * 🚀 **Commercial General Release:** Expanded enterprise tiers and team analytics.
-
----
-
-## 🌐 Official Platform & Registration
-
-> 🚀 **Platform Live Portal:** [https://vcodes.ru](https://vcodes.ru)
-
-Visit the official portal to:
-* Run an instant GEO visibility audit for your domain;
-* Register a webmaster account on the **Free Pilot Tier (up to 3 websites)**;
-* Obtain your lightweight telemetry snippet.
 
 ---
 © 2026 V-CODES. All rights reserved. Architectural standard powered by Utyansky Index Enterprise.
